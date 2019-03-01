@@ -1,0 +1,13 @@
+<mvc:View controllerName="DemoCAIwithSCP.DemoCAIwithSCP.controller.View1" xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m">
+	<Shell id="shell">
+		<App id="app">
+			<pages>
+				<Page title="Integrating SAP Conversational AI with SAP Cloud Platform">
+				<content>
+			    	<Image src="https://user-images.githubusercontent.com/18279724/53408864-9f096d80-39e5-11e9-8355-329e87c4b300.png" width="621px" height="481px" id="image0"/>
+				</content>
+				</Page>
+			</pages>
+		</App>
+	</Shell>
+</mvc:View>
